@@ -24,3 +24,5 @@ Rende 4 porções
 2. Adicione o ketchup, a mostarda, a polpa de tomate e o cogumelo, e misture. Junte o creme de leite, mexa e cozinhe por 2 minutos, ou até começar a levantar fervura.
 3. Retire do fogo e sirva em seguida.
 > Fonte: [saboresajinomoto](https://www.saboresajinomoto.com.br/receita/strogonoff-de-frango-delicia)
+
+[Voltar](../README.md)
